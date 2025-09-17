@@ -15,4 +15,4 @@ The goal of this project is to demonstrate basic 3D animation techniques, includ
 - Simple physics-based reactions  
 
 ## Preview  
-🎥 The animation is included in this repository as `0001-0128.mp4`.  
+🎥 The animation is included in this repository as `0001-0128.mp4`. 
